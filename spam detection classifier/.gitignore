@@ -1,0 +1,4 @@
+data_source/*
+!data_source/spam.csv
+logistic_regression_test.ipynb
+logistic_regression.ipynb
